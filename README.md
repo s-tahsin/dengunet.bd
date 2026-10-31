@@ -1,2 +1,2 @@
 # dengunet.bd
-A map of area endangered with dengu, also the availability of hospital,ambuelence,medicine.
+Map-based dengue risk and emergency support system for Bangladesh. Shows districts coloured by risk, hospital beds, ambulances and medicine, using AI agents. CSE327 project.
