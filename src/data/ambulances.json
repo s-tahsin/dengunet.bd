@@ -1,0 +1,706 @@
+[
+ {
+  "id": "a1",
+  "name": "Bagerhat government ambulance",
+  "district": "bagerhat",
+  "phone": "01000-000167",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a2",
+  "name": "Bandarban government ambulance",
+  "district": "bandarban",
+  "phone": "01000-000168",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a3",
+  "name": "Bandarban private ambulance service",
+  "district": "bandarban",
+  "phone": "01000-000169",
+  "kind": "Private",
+  "available24h": true
+ },
+ {
+  "id": "a4",
+  "name": "Barguna government ambulance",
+  "district": "barguna",
+  "phone": "01000-000170",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a5",
+  "name": "Barguna private ambulance service",
+  "district": "barguna",
+  "phone": "01000-000171",
+  "kind": "Private",
+  "available24h": false
+ },
+ {
+  "id": "a6",
+  "name": "Barishal government ambulance",
+  "district": "barishal",
+  "phone": "01000-000172",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a7",
+  "name": "Barishal private ambulance service",
+  "district": "barishal",
+  "phone": "01000-000173",
+  "kind": "Private",
+  "available24h": true
+ },
+ {
+  "id": "a8",
+  "name": "Bhola government ambulance",
+  "district": "bhola",
+  "phone": "01000-000174",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a9",
+  "name": "Bhola private ambulance service",
+  "district": "bhola",
+  "phone": "01000-000175",
+  "kind": "Private",
+  "available24h": true
+ },
+ {
+  "id": "a10",
+  "name": "Bogura government ambulance",
+  "district": "bogura",
+  "phone": "01000-000176",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a11",
+  "name": "Brahmanbaria government ambulance",
+  "district": "brahmanbaria",
+  "phone": "01000-000177",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a12",
+  "name": "Chandpur government ambulance",
+  "district": "chandpur",
+  "phone": "01000-000178",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a13",
+  "name": "Chandpur private ambulance service",
+  "district": "chandpur",
+  "phone": "01000-000179",
+  "kind": "Private",
+  "available24h": false
+ },
+ {
+  "id": "a14",
+  "name": "Chattogram government ambulance",
+  "district": "chattogram",
+  "phone": "01000-000180",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a15",
+  "name": "Chattogram private ambulance service",
+  "district": "chattogram",
+  "phone": "01000-000181",
+  "kind": "Private",
+  "available24h": false
+ },
+ {
+  "id": "a16",
+  "name": "Chuadanga government ambulance",
+  "district": "chuadanga",
+  "phone": "01000-000182",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a17",
+  "name": "Cox's Bazar government ambulance",
+  "district": "coxs-bazar",
+  "phone": "01000-000183",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a18",
+  "name": "Cox's Bazar private ambulance service",
+  "district": "coxs-bazar",
+  "phone": "01000-000184",
+  "kind": "Private",
+  "available24h": false
+ },
+ {
+  "id": "a19",
+  "name": "Cumilla government ambulance",
+  "district": "cumilla",
+  "phone": "01000-000185",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a20",
+  "name": "Cumilla private ambulance service",
+  "district": "cumilla",
+  "phone": "01000-000186",
+  "kind": "Private",
+  "available24h": false
+ },
+ {
+  "id": "a21",
+  "name": "Dhaka government ambulance",
+  "district": "dhaka",
+  "phone": "01000-000187",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a22",
+  "name": "Dhaka private ambulance service",
+  "district": "dhaka",
+  "phone": "01000-000188",
+  "kind": "Private",
+  "available24h": true
+ },
+ {
+  "id": "a23",
+  "name": "Dinajpur government ambulance",
+  "district": "dinajpur",
+  "phone": "01000-000189",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a24",
+  "name": "Faridpur government ambulance",
+  "district": "faridpur",
+  "phone": "01000-000190",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a25",
+  "name": "Faridpur private ambulance service",
+  "district": "faridpur",
+  "phone": "01000-000191",
+  "kind": "Private",
+  "available24h": true
+ },
+ {
+  "id": "a26",
+  "name": "Feni government ambulance",
+  "district": "feni",
+  "phone": "01000-000192",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a27",
+  "name": "Feni private ambulance service",
+  "district": "feni",
+  "phone": "01000-000193",
+  "kind": "Private",
+  "available24h": true
+ },
+ {
+  "id": "a28",
+  "name": "Gaibandha government ambulance",
+  "district": "gaibandha",
+  "phone": "01000-000194",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a29",
+  "name": "Gazipur government ambulance",
+  "district": "gazipur",
+  "phone": "01000-000195",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a30",
+  "name": "Gazipur private ambulance service",
+  "district": "gazipur",
+  "phone": "01000-000196",
+  "kind": "Private",
+  "available24h": true
+ },
+ {
+  "id": "a31",
+  "name": "Gopalganj government ambulance",
+  "district": "gopalganj",
+  "phone": "01000-000197",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a32",
+  "name": "Habiganj government ambulance",
+  "district": "habiganj",
+  "phone": "01000-000198",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a33",
+  "name": "Jamalpur government ambulance",
+  "district": "jamalpur",
+  "phone": "01000-000199",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a34",
+  "name": "Jashore government ambulance",
+  "district": "jashore",
+  "phone": "01000-000200",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a35",
+  "name": "Jashore private ambulance service",
+  "district": "jashore",
+  "phone": "01000-000201",
+  "kind": "Private",
+  "available24h": true
+ },
+ {
+  "id": "a36",
+  "name": "Jhalokati government ambulance",
+  "district": "jhalokati",
+  "phone": "01000-000202",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a37",
+  "name": "Jhalokati private ambulance service",
+  "district": "jhalokati",
+  "phone": "01000-000203",
+  "kind": "Private",
+  "available24h": true
+ },
+ {
+  "id": "a38",
+  "name": "Jhenaidah government ambulance",
+  "district": "jhenaidah",
+  "phone": "01000-000204",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a39",
+  "name": "Joypurhat government ambulance",
+  "district": "joypurhat",
+  "phone": "01000-000205",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a40",
+  "name": "Khagrachari government ambulance",
+  "district": "khagrachari",
+  "phone": "01000-000206",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a41",
+  "name": "Khulna government ambulance",
+  "district": "khulna",
+  "phone": "01000-000207",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a42",
+  "name": "Khulna private ambulance service",
+  "district": "khulna",
+  "phone": "01000-000208",
+  "kind": "Private",
+  "available24h": true
+ },
+ {
+  "id": "a43",
+  "name": "Kishoreganj government ambulance",
+  "district": "kishoreganj",
+  "phone": "01000-000209",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a44",
+  "name": "Kurigram government ambulance",
+  "district": "kurigram",
+  "phone": "01000-000210",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a45",
+  "name": "Kushtia government ambulance",
+  "district": "kushtia",
+  "phone": "01000-000211",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a46",
+  "name": "Lakshmipur government ambulance",
+  "district": "lakshmipur",
+  "phone": "01000-000212",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a47",
+  "name": "Lakshmipur private ambulance service",
+  "district": "lakshmipur",
+  "phone": "01000-000213",
+  "kind": "Private",
+  "available24h": false
+ },
+ {
+  "id": "a48",
+  "name": "Lalmonirhat government ambulance",
+  "district": "lalmonirhat",
+  "phone": "01000-000214",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a49",
+  "name": "Madaripur government ambulance",
+  "district": "madaripur",
+  "phone": "01000-000215",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a50",
+  "name": "Madaripur private ambulance service",
+  "district": "madaripur",
+  "phone": "01000-000216",
+  "kind": "Private",
+  "available24h": true
+ },
+ {
+  "id": "a51",
+  "name": "Magura government ambulance",
+  "district": "magura",
+  "phone": "01000-000217",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a52",
+  "name": "Manikganj government ambulance",
+  "district": "manikganj",
+  "phone": "01000-000218",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a53",
+  "name": "Manikganj private ambulance service",
+  "district": "manikganj",
+  "phone": "01000-000219",
+  "kind": "Private",
+  "available24h": true
+ },
+ {
+  "id": "a54",
+  "name": "Maulvibazar government ambulance",
+  "district": "maulvibazar",
+  "phone": "01000-000220",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a55",
+  "name": "Meherpur government ambulance",
+  "district": "meherpur",
+  "phone": "01000-000221",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a56",
+  "name": "Munshiganj government ambulance",
+  "district": "munshiganj",
+  "phone": "01000-000222",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a57",
+  "name": "Munshiganj private ambulance service",
+  "district": "munshiganj",
+  "phone": "01000-000223",
+  "kind": "Private",
+  "available24h": false
+ },
+ {
+  "id": "a58",
+  "name": "Mymensingh government ambulance",
+  "district": "mymensingh",
+  "phone": "01000-000224",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a59",
+  "name": "Naogaon government ambulance",
+  "district": "naogaon",
+  "phone": "01000-000225",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a60",
+  "name": "Narail government ambulance",
+  "district": "narail",
+  "phone": "01000-000226",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a61",
+  "name": "Narayanganj government ambulance",
+  "district": "narayanganj",
+  "phone": "01000-000227",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a62",
+  "name": "Narayanganj private ambulance service",
+  "district": "narayanganj",
+  "phone": "01000-000228",
+  "kind": "Private",
+  "available24h": true
+ },
+ {
+  "id": "a63",
+  "name": "Narsingdi government ambulance",
+  "district": "narsingdi",
+  "phone": "01000-000229",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a64",
+  "name": "Narsingdi private ambulance service",
+  "district": "narsingdi",
+  "phone": "01000-000230",
+  "kind": "Private",
+  "available24h": false
+ },
+ {
+  "id": "a65",
+  "name": "Natore government ambulance",
+  "district": "natore",
+  "phone": "01000-000231",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a66",
+  "name": "Nawabganj government ambulance",
+  "district": "nawabganj",
+  "phone": "01000-000232",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a67",
+  "name": "Netrokona government ambulance",
+  "district": "netrokona",
+  "phone": "01000-000233",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a68",
+  "name": "Nilphamari government ambulance",
+  "district": "nilphamari",
+  "phone": "01000-000234",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a69",
+  "name": "Noakhali government ambulance",
+  "district": "noakhali",
+  "phone": "01000-000235",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a70",
+  "name": "Noakhali private ambulance service",
+  "district": "noakhali",
+  "phone": "01000-000236",
+  "kind": "Private",
+  "available24h": false
+ },
+ {
+  "id": "a71",
+  "name": "Pabna government ambulance",
+  "district": "pabna",
+  "phone": "01000-000237",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a72",
+  "name": "Panchagarh government ambulance",
+  "district": "panchagarh",
+  "phone": "01000-000238",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a73",
+  "name": "Patuakhali government ambulance",
+  "district": "patuakhali",
+  "phone": "01000-000239",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a74",
+  "name": "Patuakhali private ambulance service",
+  "district": "patuakhali",
+  "phone": "01000-000240",
+  "kind": "Private",
+  "available24h": false
+ },
+ {
+  "id": "a75",
+  "name": "Pirojpur government ambulance",
+  "district": "pirojpur",
+  "phone": "01000-000241",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a76",
+  "name": "Pirojpur private ambulance service",
+  "district": "pirojpur",
+  "phone": "01000-000242",
+  "kind": "Private",
+  "available24h": false
+ },
+ {
+  "id": "a77",
+  "name": "Rajbari government ambulance",
+  "district": "rajbari",
+  "phone": "01000-000243",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a78",
+  "name": "Rajshahi government ambulance",
+  "district": "rajshahi",
+  "phone": "01000-000244",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a79",
+  "name": "Rangamati government ambulance",
+  "district": "rangamati",
+  "phone": "01000-000245",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a80",
+  "name": "Rangpur government ambulance",
+  "district": "rangpur",
+  "phone": "01000-000246",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a81",
+  "name": "Satkhira government ambulance",
+  "district": "satkhira",
+  "phone": "01000-000247",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a82",
+  "name": "Shariatpur government ambulance",
+  "district": "shariatpur",
+  "phone": "01000-000248",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a83",
+  "name": "Sherpur government ambulance",
+  "district": "sherpur",
+  "phone": "01000-000249",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a84",
+  "name": "Sirajgonj government ambulance",
+  "district": "sirajgonj",
+  "phone": "01000-000250",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a85",
+  "name": "Sunamganj government ambulance",
+  "district": "sunamganj",
+  "phone": "01000-000251",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a86",
+  "name": "Sylhet government ambulance",
+  "district": "sylhet",
+  "phone": "01000-000252",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a87",
+  "name": "Tangail government ambulance",
+  "district": "tangail",
+  "phone": "01000-000253",
+  "kind": "Government",
+  "available24h": true
+ },
+ {
+  "id": "a88",
+  "name": "Thakurgaon government ambulance",
+  "district": "thakurgaon",
+  "phone": "01000-000254",
+  "kind": "Government",
+  "available24h": true
+ }
+]

@@ -1,0 +1,95 @@
+@import "tailwindcss";
+
+/*
+  DengueNet BD tokens
+  The risk scale is the loudest colour in the product; everything else stays quiet.
+  Brand green + red dot borrow from the Bangladesh flag.
+*/
+:root {
+  --paper: #f5f7f6;
+  --surface: #ffffff;
+  --ink: #15201c;
+  --muted: #56655f;
+  --line: #d9e1dd;
+  --brand: #0b5d45;
+  --brand-soft: #e3efe9;
+  --dot: #d7263d;
+
+  --risk-very-high: #a51f2b;
+  --risk-high: #dc5a19;
+  --risk-moderate: #e0a91a;
+  --risk-low: #2f8f4c;
+
+  /* Darker shades for small text on white (4.5:1+) */
+  --risk-high-ink: #b4460f;
+  --risk-moderate-ink: #8a6200;
+  --risk-low-ink: #26773f;
+
+  --sea: #d4e6f1;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-surface: var(--surface);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-brand: var(--brand);
+  --color-brand-soft: var(--brand-soft);
+  --color-dot: var(--dot);
+  --color-risk-very-high: var(--risk-very-high);
+  --color-risk-high: var(--risk-high);
+  --color-risk-moderate: var(--risk-moderate);
+  --color-risk-low: var(--risk-low);
+  --color-risk-high-ink: var(--risk-high-ink);
+  --color-risk-moderate-ink: var(--risk-moderate-ink);
+  --color-risk-low-ink: var(--risk-low-ink);
+  --font-sans: "Hind Siliguri", system-ui, sans-serif;
+}
+
+html,
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-sans);
+}
+
+body {
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+:focus-visible {
+  outline: 2px solid var(--brand);
+  outline-offset: 2px;
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+.leaflet-container {
+  background: var(--sea);
+  font-family: var(--font-sans);
+}
+
+.district-tip {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  box-shadow: 0 4px 14px rgb(21 32 28 / 0.12);
+  color: var(--ink);
+  font-size: 13px;
+  line-height: 1.35;
+  padding: 6px 9px;
+}
+.district-tip::before {
+  display: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition: none !important;
+    animation: none !important;
+  }
+}
