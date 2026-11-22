@@ -1,0 +1,1490 @@
+[
+ {
+  "id": "p1",
+  "name": "Bagerhat Sadar Pharmacy",
+  "district": "bagerhat",
+  "area": "Sadar",
+  "lat": 22.5146,
+  "lng": 89.7252,
+  "stock": {
+   "saline": 0,
+   "ors": 117,
+   "paracetamol": 264,
+   "ns1Kit": 208
+  },
+  "open24h": false,
+  "phone": "01000-000074"
+ },
+ {
+  "id": "p2",
+  "name": "Bandarban Sadar Pharmacy",
+  "district": "bandarban",
+  "area": "Sadar",
+  "lat": 21.8016,
+  "lng": 92.3763,
+  "stock": {
+   "saline": 324,
+   "ors": 0,
+   "paracetamol": 0,
+   "ns1Kit": 9
+  },
+  "open24h": false,
+  "phone": "01000-000075"
+ },
+ {
+  "id": "p3",
+  "name": "Bandarban Hospital Road Pharmacy",
+  "district": "bandarban",
+  "area": "Hospital Road",
+  "lat": 21.7901,
+  "lng": 92.3791,
+  "stock": {
+   "saline": 395,
+   "ors": 0,
+   "paracetamol": 121,
+   "ns1Kit": 23
+  },
+  "open24h": false,
+  "phone": "01000-000076"
+ },
+ {
+  "id": "p4",
+  "name": "Barguna Sadar Pharmacy",
+  "district": "barguna",
+  "area": "Sadar",
+  "lat": 22.1511,
+  "lng": 90.2417,
+  "stock": {
+   "saline": 0,
+   "ors": 280,
+   "paracetamol": 103,
+   "ns1Kit": 16
+  },
+  "open24h": false,
+  "phone": "01000-000077"
+ },
+ {
+  "id": "p5",
+  "name": "Barguna Hospital Road Pharmacy",
+  "district": "barguna",
+  "area": "Hospital Road",
+  "lat": 22.2104,
+  "lng": 90.187,
+  "stock": {
+   "saline": 10,
+   "ors": 138,
+   "paracetamol": 0,
+   "ns1Kit": 0
+  },
+  "open24h": true,
+  "phone": "01000-000078"
+ },
+ {
+  "id": "p6",
+  "name": "Barishal Sadar Pharmacy",
+  "district": "barishal",
+  "area": "Sadar",
+  "lat": 22.7653,
+  "lng": 90.289,
+  "stock": {
+   "saline": 235,
+   "ors": 27,
+   "paracetamol": 0,
+   "ns1Kit": 40
+  },
+  "open24h": false,
+  "phone": "01000-000079"
+ },
+ {
+  "id": "p7",
+  "name": "Barishal Hospital Road Pharmacy",
+  "district": "barishal",
+  "area": "Hospital Road",
+  "lat": 22.7409,
+  "lng": 90.3212,
+  "stock": {
+   "saline": 29,
+   "ors": 0,
+   "paracetamol": 0,
+   "ns1Kit": 8
+  },
+  "open24h": true,
+  "phone": "01000-000080"
+ },
+ {
+  "id": "p8",
+  "name": "Bhola Sadar Pharmacy",
+  "district": "bhola",
+  "area": "Sadar",
+  "lat": 22.4048,
+  "lng": 90.7238,
+  "stock": {
+   "saline": 13,
+   "ors": 110,
+   "paracetamol": 0,
+   "ns1Kit": 313
+  },
+  "open24h": true,
+  "phone": "01000-000081"
+ },
+ {
+  "id": "p9",
+  "name": "Bhola Hospital Road Pharmacy",
+  "district": "bhola",
+  "area": "Hospital Road",
+  "lat": 22.4097,
+  "lng": 90.789,
+  "stock": {
+   "saline": 109,
+   "ors": 0,
+   "paracetamol": 14,
+   "ns1Kit": 156
+  },
+  "open24h": false,
+  "phone": "01000-000082"
+ },
+ {
+  "id": "p10",
+  "name": "Bogura Sadar Pharmacy",
+  "district": "bogura",
+  "area": "Sadar",
+  "lat": 24.7744,
+  "lng": 89.3567,
+  "stock": {
+   "saline": 211,
+   "ors": 19,
+   "paracetamol": 252,
+   "ns1Kit": 0
+  },
+  "open24h": false,
+  "phone": "01000-000083"
+ },
+ {
+  "id": "p11",
+  "name": "Brahmanbaria Sadar Pharmacy",
+  "district": "brahmanbaria",
+  "area": "Sadar",
+  "lat": 23.977,
+  "lng": 91.1484,
+  "stock": {
+   "saline": 337,
+   "ors": 243,
+   "paracetamol": 0,
+   "ns1Kit": 31
+  },
+  "open24h": false,
+  "phone": "01000-000084"
+ },
+ {
+  "id": "p12",
+  "name": "Chandpur Sadar Pharmacy",
+  "district": "chandpur",
+  "area": "Sadar",
+  "lat": 23.2192,
+  "lng": 90.8205,
+  "stock": {
+   "saline": 94,
+   "ors": 30,
+   "paracetamol": 352,
+   "ns1Kit": 388
+  },
+  "open24h": false,
+  "phone": "01000-000085"
+ },
+ {
+  "id": "p13",
+  "name": "Chandpur Hospital Road Pharmacy",
+  "district": "chandpur",
+  "area": "Hospital Road",
+  "lat": 23.2543,
+  "lng": 90.8748,
+  "stock": {
+   "saline": 0,
+   "ors": 151,
+   "paracetamol": 0,
+   "ns1Kit": 0
+  },
+  "open24h": true,
+  "phone": "01000-000086"
+ },
+ {
+  "id": "p14",
+  "name": "Agrabad Medicine Corner",
+  "district": "chattogram",
+  "area": "Agrabad",
+  "lat": 22.4262,
+  "lng": 92.0421,
+  "stock": {
+   "saline": 140,
+   "ors": 16,
+   "paracetamol": 357,
+   "ns1Kit": 16
+  },
+  "open24h": false,
+  "phone": "01000-000087"
+ },
+ {
+  "id": "p15",
+  "name": "Panchlaish Medicine Corner",
+  "district": "chattogram",
+  "area": "Panchlaish",
+  "lat": 22.4733,
+  "lng": 92.0497,
+  "stock": {
+   "saline": 248,
+   "ors": 264,
+   "paracetamol": 100,
+   "ns1Kit": 334
+  },
+  "open24h": false,
+  "phone": "01000-000088"
+ },
+ {
+  "id": "p16",
+  "name": "Halishahar Medicine Corner",
+  "district": "chattogram",
+  "area": "Halishahar",
+  "lat": 22.3831,
+  "lng": 91.9955,
+  "stock": {
+   "saline": 28,
+   "ors": 0,
+   "paracetamol": 36,
+   "ns1Kit": 122
+  },
+  "open24h": false,
+  "phone": "01000-000089"
+ },
+ {
+  "id": "p17",
+  "name": "Chuadanga Sadar Pharmacy",
+  "district": "chuadanga",
+  "area": "Sadar",
+  "lat": 23.5567,
+  "lng": 88.8253,
+  "stock": {
+   "saline": 237,
+   "ors": 280,
+   "paracetamol": 13,
+   "ns1Kit": 6
+  },
+  "open24h": true,
+  "phone": "01000-000090"
+ },
+ {
+  "id": "p18",
+  "name": "Cox's Bazar Sadar Pharmacy",
+  "district": "coxs-bazar",
+  "area": "Sadar",
+  "lat": 21.3,
+  "lng": 92.0468,
+  "stock": {
+   "saline": 31,
+   "ors": 114,
+   "paracetamol": 0,
+   "ns1Kit": 0
+  },
+  "open24h": true,
+  "phone": "01000-000091"
+ },
+ {
+  "id": "p19",
+  "name": "Cox's Bazar Hospital Road Pharmacy",
+  "district": "coxs-bazar",
+  "area": "Hospital Road",
+  "lat": 21.3033,
+  "lng": 92.093,
+  "stock": {
+   "saline": 98,
+   "ors": 27,
+   "paracetamol": 328,
+   "ns1Kit": 14
+  },
+  "open24h": true,
+  "phone": "01000-000092"
+ },
+ {
+  "id": "p20",
+  "name": "Cumilla Sadar Pharmacy",
+  "district": "cumilla",
+  "area": "Sadar",
+  "lat": 23.4233,
+  "lng": 91.0713,
+  "stock": {
+   "saline": 294,
+   "ors": 241,
+   "paracetamol": 138,
+   "ns1Kit": 85
+  },
+  "open24h": false,
+  "phone": "01000-000093"
+ },
+ {
+  "id": "p21",
+  "name": "Cumilla Hospital Road Pharmacy",
+  "district": "cumilla",
+  "area": "Hospital Road",
+  "lat": 23.4668,
+  "lng": 91.1031,
+  "stock": {
+   "saline": 291,
+   "ors": 83,
+   "paracetamol": 266,
+   "ns1Kit": 360
+  },
+  "open24h": false,
+  "phone": "01000-000094"
+ },
+ {
+  "id": "p22",
+  "name": "Dhanmondi Medicine Corner",
+  "district": "dhaka",
+  "area": "Dhanmondi",
+  "lat": 23.7872,
+  "lng": 90.3219,
+  "stock": {
+   "saline": 299,
+   "ors": 18,
+   "paracetamol": 89,
+   "ns1Kit": 22
+  },
+  "open24h": false,
+  "phone": "01000-000095"
+ },
+ {
+  "id": "p23",
+  "name": "Mirpur Medicine Corner",
+  "district": "dhaka",
+  "area": "Mirpur",
+  "lat": 23.7943,
+  "lng": 90.2668,
+  "stock": {
+   "saline": 0,
+   "ors": 15,
+   "paracetamol": 91,
+   "ns1Kit": 24
+  },
+  "open24h": false,
+  "phone": "01000-000096"
+ },
+ {
+  "id": "p24",
+  "name": "Uttara Medicine Corner",
+  "district": "dhaka",
+  "area": "Uttara",
+  "lat": 23.7508,
+  "lng": 90.2866,
+  "stock": {
+   "saline": 14,
+   "ors": 126,
+   "paracetamol": 29,
+   "ns1Kit": 6
+  },
+  "open24h": false,
+  "phone": "01000-000097"
+ },
+ {
+  "id": "p25",
+  "name": "Jatrabari Medicine Corner",
+  "district": "dhaka",
+  "area": "Jatrabari",
+  "lat": 23.8178,
+  "lng": 90.2927,
+  "stock": {
+   "saline": 219,
+   "ors": 6,
+   "paracetamol": 0,
+   "ns1Kit": 16
+  },
+  "open24h": true,
+  "phone": "01000-000098"
+ },
+ {
+  "id": "p26",
+  "name": "Mohammadpur Medicine Corner",
+  "district": "dhaka",
+  "area": "Mohammadpur",
+  "lat": 23.7971,
+  "lng": 90.3179,
+  "stock": {
+   "saline": 0,
+   "ors": 0,
+   "paracetamol": 18,
+   "ns1Kit": 19
+  },
+  "open24h": false,
+  "phone": "01000-000099"
+ },
+ {
+  "id": "p27",
+  "name": "Badda Medicine Corner",
+  "district": "dhaka",
+  "area": "Badda",
+  "lat": 23.7971,
+  "lng": 90.3447,
+  "stock": {
+   "saline": 134,
+   "ors": 27,
+   "paracetamol": 0,
+   "ns1Kit": 26
+  },
+  "open24h": false,
+  "phone": "01000-000100"
+ },
+ {
+  "id": "p28",
+  "name": "Dinajpur Sadar Pharmacy",
+  "district": "dinajpur",
+  "area": "Sadar",
+  "lat": 25.6875,
+  "lng": 88.6777,
+  "stock": {
+   "saline": 271,
+   "ors": 211,
+   "paracetamol": 123,
+   "ns1Kit": 18
+  },
+  "open24h": false,
+  "phone": "01000-000101"
+ },
+ {
+  "id": "p29",
+  "name": "Faridpur Sadar Pharmacy",
+  "district": "faridpur",
+  "area": "Sadar",
+  "lat": 23.5066,
+  "lng": 89.8249,
+  "stock": {
+   "saline": 142,
+   "ors": 180,
+   "paracetamol": 0,
+   "ns1Kit": 369
+  },
+  "open24h": false,
+  "phone": "01000-000102"
+ },
+ {
+  "id": "p30",
+  "name": "Faridpur Hospital Road Pharmacy",
+  "district": "faridpur",
+  "area": "Hospital Road",
+  "lat": 23.4594,
+  "lng": 89.8091,
+  "stock": {
+   "saline": 227,
+   "ors": 135,
+   "paracetamol": 361,
+   "ns1Kit": 34
+  },
+  "open24h": false,
+  "phone": "01000-000103"
+ },
+ {
+  "id": "p31",
+  "name": "Feni Sadar Pharmacy",
+  "district": "feni",
+  "area": "Sadar",
+  "lat": 22.9928,
+  "lng": 91.4138,
+  "stock": {
+   "saline": 9,
+   "ors": 0,
+   "paracetamol": 40,
+   "ns1Kit": 9
+  },
+  "open24h": false,
+  "phone": "01000-000104"
+ },
+ {
+  "id": "p32",
+  "name": "Feni Hospital Road Pharmacy",
+  "district": "feni",
+  "area": "Hospital Road",
+  "lat": 23.0352,
+  "lng": 91.3914,
+  "stock": {
+   "saline": 0,
+   "ors": 0,
+   "paracetamol": 204,
+   "ns1Kit": 6
+  },
+  "open24h": false,
+  "phone": "01000-000105"
+ },
+ {
+  "id": "p33",
+  "name": "Gaibandha Sadar Pharmacy",
+  "district": "gaibandha",
+  "area": "Sadar",
+  "lat": 25.3155,
+  "lng": 89.5165,
+  "stock": {
+   "saline": 304,
+   "ors": 201,
+   "paracetamol": 98,
+   "ns1Kit": 376
+  },
+  "open24h": false,
+  "phone": "01000-000106"
+ },
+ {
+  "id": "p34",
+  "name": "Gazipur Sadar Pharmacy",
+  "district": "gazipur",
+  "area": "Sadar",
+  "lat": 24.0293,
+  "lng": 90.5314,
+  "stock": {
+   "saline": 0,
+   "ors": 11,
+   "paracetamol": 297,
+   "ns1Kit": 39
+  },
+  "open24h": false,
+  "phone": "01000-000107"
+ },
+ {
+  "id": "p35",
+  "name": "Gazipur Hospital Road Pharmacy",
+  "district": "gazipur",
+  "area": "Hospital Road",
+  "lat": 24.0417,
+  "lng": 90.5533,
+  "stock": {
+   "saline": 8,
+   "ors": 362,
+   "paracetamol": 212,
+   "ns1Kit": 31
+  },
+  "open24h": false,
+  "phone": "01000-000108"
+ },
+ {
+  "id": "p36",
+  "name": "Gopalganj Sadar Pharmacy",
+  "district": "gopalganj",
+  "area": "Sadar",
+  "lat": 23.1367,
+  "lng": 89.8199,
+  "stock": {
+   "saline": 298,
+   "ors": 0,
+   "paracetamol": 264,
+   "ns1Kit": 0
+  },
+  "open24h": false,
+  "phone": "01000-000109"
+ },
+ {
+  "id": "p37",
+  "name": "Habiganj Sadar Pharmacy",
+  "district": "habiganj",
+  "area": "Sadar",
+  "lat": 24.2912,
+  "lng": 91.441,
+  "stock": {
+   "saline": 377,
+   "ors": 93,
+   "paracetamol": 28,
+   "ns1Kit": 34
+  },
+  "open24h": false,
+  "phone": "01000-000110"
+ },
+ {
+  "id": "p38",
+  "name": "Jamalpur Sadar Pharmacy",
+  "district": "jamalpur",
+  "area": "Sadar",
+  "lat": 25.0392,
+  "lng": 89.8241,
+  "stock": {
+   "saline": 119,
+   "ors": 166,
+   "paracetamol": 83,
+   "ns1Kit": 367
+  },
+  "open24h": false,
+  "phone": "01000-000111"
+ },
+ {
+  "id": "p39",
+  "name": "Jashore Sadar Pharmacy",
+  "district": "jashore",
+  "area": "Sadar",
+  "lat": 23.0971,
+  "lng": 89.142,
+  "stock": {
+   "saline": 343,
+   "ors": 392,
+   "paracetamol": 124,
+   "ns1Kit": 364
+  },
+  "open24h": false,
+  "phone": "01000-000112"
+ },
+ {
+  "id": "p40",
+  "name": "Jashore Hospital Road Pharmacy",
+  "district": "jashore",
+  "area": "Hospital Road",
+  "lat": 23.0448,
+  "lng": 89.1276,
+  "stock": {
+   "saline": 40,
+   "ors": 91,
+   "paracetamol": 351,
+   "ns1Kit": 29
+  },
+  "open24h": false,
+  "phone": "01000-000113"
+ },
+ {
+  "id": "p41",
+  "name": "Jhalokati Sadar Pharmacy",
+  "district": "jhalokati",
+  "area": "Sadar",
+  "lat": 22.6724,
+  "lng": 90.2349,
+  "stock": {
+   "saline": 29,
+   "ors": 342,
+   "paracetamol": 20,
+   "ns1Kit": 156
+  },
+  "open24h": false,
+  "phone": "01000-000114"
+ },
+ {
+  "id": "p42",
+  "name": "Jhalokati Hospital Road Pharmacy",
+  "district": "jhalokati",
+  "area": "Hospital Road",
+  "lat": 22.6236,
+  "lng": 90.2572,
+  "stock": {
+   "saline": 189,
+   "ors": 359,
+   "paracetamol": 123,
+   "ns1Kit": 276
+  },
+  "open24h": true,
+  "phone": "01000-000115"
+ },
+ {
+  "id": "p43",
+  "name": "Jhenaidah Sadar Pharmacy",
+  "district": "jhenaidah",
+  "area": "Sadar",
+  "lat": 23.4878,
+  "lng": 89.0843,
+  "stock": {
+   "saline": 290,
+   "ors": 312,
+   "paracetamol": 15,
+   "ns1Kit": 156
+  },
+  "open24h": true,
+  "phone": "01000-000116"
+ },
+ {
+  "id": "p44",
+  "name": "Joypurhat Sadar Pharmacy",
+  "district": "joypurhat",
+  "area": "Sadar",
+  "lat": 25.0577,
+  "lng": 89.1253,
+  "stock": {
+   "saline": 212,
+   "ors": 385,
+   "paracetamol": 286,
+   "ns1Kit": 225
+  },
+  "open24h": false,
+  "phone": "01000-000117"
+ },
+ {
+  "id": "p45",
+  "name": "Khagrachari Sadar Pharmacy",
+  "district": "khagrachari",
+  "area": "Sadar",
+  "lat": 23.1669,
+  "lng": 92.0632,
+  "stock": {
+   "saline": 12,
+   "ors": 198,
+   "paracetamol": 189,
+   "ns1Kit": 278
+  },
+  "open24h": false,
+  "phone": "01000-000118"
+ },
+ {
+  "id": "p46",
+  "name": "Khulna Sadar Pharmacy",
+  "district": "khulna",
+  "area": "Sadar",
+  "lat": 22.524,
+  "lng": 89.4211,
+  "stock": {
+   "saline": 150,
+   "ors": 0,
+   "paracetamol": 179,
+   "ns1Kit": 337
+  },
+  "open24h": false,
+  "phone": "01000-000119"
+ },
+ {
+  "id": "p47",
+  "name": "Khulna Hospital Road Pharmacy",
+  "district": "khulna",
+  "area": "Hospital Road",
+  "lat": 22.5157,
+  "lng": 89.4689,
+  "stock": {
+   "saline": 0,
+   "ors": 31,
+   "paracetamol": 0,
+   "ns1Kit": 35
+  },
+  "open24h": false,
+  "phone": "01000-000120"
+ },
+ {
+  "id": "p48",
+  "name": "Kishoreganj Sadar Pharmacy",
+  "district": "kishoreganj",
+  "area": "Sadar",
+  "lat": 24.3562,
+  "lng": 90.9172,
+  "stock": {
+   "saline": 37,
+   "ors": 369,
+   "paracetamol": 173,
+   "ns1Kit": 0
+  },
+  "open24h": false,
+  "phone": "01000-000121"
+ },
+ {
+  "id": "p49",
+  "name": "Kurigram Sadar Pharmacy",
+  "district": "kurigram",
+  "area": "Sadar",
+  "lat": 25.8249,
+  "lng": 89.6088,
+  "stock": {
+   "saline": 84,
+   "ors": 226,
+   "paracetamol": 275,
+   "ns1Kit": 271
+  },
+  "open24h": false,
+  "phone": "01000-000122"
+ },
+ {
+  "id": "p50",
+  "name": "Kushtia Sadar Pharmacy",
+  "district": "kushtia",
+  "area": "Sadar",
+  "lat": 23.9731,
+  "lng": 89.0244,
+  "stock": {
+   "saline": 222,
+   "ors": 0,
+   "paracetamol": 11,
+   "ns1Kit": 300
+  },
+  "open24h": false,
+  "phone": "01000-000123"
+ },
+ {
+  "id": "p51",
+  "name": "Lakshmipur Sadar Pharmacy",
+  "district": "lakshmipur",
+  "area": "Sadar",
+  "lat": 22.8403,
+  "lng": 90.8397,
+  "stock": {
+   "saline": 17,
+   "ors": 200,
+   "paracetamol": 88,
+   "ns1Kit": 337
+  },
+  "open24h": true,
+  "phone": "01000-000124"
+ },
+ {
+  "id": "p52",
+  "name": "Lakshmipur Hospital Road Pharmacy",
+  "district": "lakshmipur",
+  "area": "Hospital Road",
+  "lat": 22.8443,
+  "lng": 90.8452,
+  "stock": {
+   "saline": 247,
+   "ors": 269,
+   "paracetamol": 0,
+   "ns1Kit": 0
+  },
+  "open24h": true,
+  "phone": "01000-000125"
+ },
+ {
+  "id": "p53",
+  "name": "Lalmonirhat Sadar Pharmacy",
+  "district": "lalmonirhat",
+  "area": "Sadar",
+  "lat": 26.1115,
+  "lng": 89.0938,
+  "stock": {
+   "saline": 365,
+   "ors": 218,
+   "paracetamol": 324,
+   "ns1Kit": 190
+  },
+  "open24h": true,
+  "phone": "01000-000126"
+ },
+ {
+  "id": "p54",
+  "name": "Madaripur Sadar Pharmacy",
+  "district": "madaripur",
+  "area": "Sadar",
+  "lat": 23.2648,
+  "lng": 90.1192,
+  "stock": {
+   "saline": 31,
+   "ors": 249,
+   "paracetamol": 98,
+   "ns1Kit": 263
+  },
+  "open24h": false,
+  "phone": "01000-000127"
+ },
+ {
+  "id": "p55",
+  "name": "Madaripur Hospital Road Pharmacy",
+  "district": "madaripur",
+  "area": "Hospital Road",
+  "lat": 23.201,
+  "lng": 90.1009,
+  "stock": {
+   "saline": 7,
+   "ors": 156,
+   "paracetamol": 0,
+   "ns1Kit": 0
+  },
+  "open24h": true,
+  "phone": "01000-000128"
+ },
+ {
+  "id": "p56",
+  "name": "Magura Sadar Pharmacy",
+  "district": "magura",
+  "area": "Sadar",
+  "lat": 24.1527,
+  "lng": 90.3788,
+  "stock": {
+   "saline": 131,
+   "ors": 339,
+   "paracetamol": 6,
+   "ns1Kit": 25
+  },
+  "open24h": false,
+  "phone": "01000-000129"
+ },
+ {
+  "id": "p57",
+  "name": "Manikganj Sadar Pharmacy",
+  "district": "manikganj",
+  "area": "Sadar",
+  "lat": 23.8361,
+  "lng": 89.907,
+  "stock": {
+   "saline": 396,
+   "ors": 246,
+   "paracetamol": 168,
+   "ns1Kit": 263
+  },
+  "open24h": true,
+  "phone": "01000-000130"
+ },
+ {
+  "id": "p58",
+  "name": "Manikganj Hospital Road Pharmacy",
+  "district": "manikganj",
+  "area": "Hospital Road",
+  "lat": 23.8324,
+  "lng": 89.903,
+  "stock": {
+   "saline": 166,
+   "ors": 184,
+   "paracetamol": 143,
+   "ns1Kit": 365
+  },
+  "open24h": false,
+  "phone": "01000-000131"
+ },
+ {
+  "id": "p59",
+  "name": "Maulvibazar Sadar Pharmacy",
+  "district": "maulvibazar",
+  "area": "Sadar",
+  "lat": 24.5005,
+  "lng": 91.8346,
+  "stock": {
+   "saline": 113,
+   "ors": 268,
+   "paracetamol": 0,
+   "ns1Kit": 236
+  },
+  "open24h": true,
+  "phone": "01000-000132"
+ },
+ {
+  "id": "p60",
+  "name": "Meherpur Sadar Pharmacy",
+  "district": "meherpur",
+  "area": "Sadar",
+  "lat": 23.7282,
+  "lng": 88.6346,
+  "stock": {
+   "saline": 205,
+   "ors": 396,
+   "paracetamol": 215,
+   "ns1Kit": 177
+  },
+  "open24h": false,
+  "phone": "01000-000133"
+ },
+ {
+  "id": "p61",
+  "name": "Munshiganj Sadar Pharmacy",
+  "district": "munshiganj",
+  "area": "Sadar",
+  "lat": 23.5075,
+  "lng": 90.4032,
+  "stock": {
+   "saline": 27,
+   "ors": 384,
+   "paracetamol": 200,
+   "ns1Kit": 0
+  },
+  "open24h": true,
+  "phone": "01000-000134"
+ },
+ {
+  "id": "p62",
+  "name": "Munshiganj Hospital Road Pharmacy",
+  "district": "munshiganj",
+  "area": "Hospital Road",
+  "lat": 23.5155,
+  "lng": 90.4175,
+  "stock": {
+   "saline": 101,
+   "ors": 375,
+   "paracetamol": 0,
+   "ns1Kit": 38
+  },
+  "open24h": true,
+  "phone": "01000-000135"
+ },
+ {
+  "id": "p63",
+  "name": "Mymensingh Sadar Pharmacy",
+  "district": "mymensingh",
+  "area": "Sadar",
+  "lat": 24.6883,
+  "lng": 90.3951,
+  "stock": {
+   "saline": 131,
+   "ors": 164,
+   "paracetamol": 113,
+   "ns1Kit": 217
+  },
+  "open24h": true,
+  "phone": "01000-000136"
+ },
+ {
+  "id": "p64",
+  "name": "Naogaon Sadar Pharmacy",
+  "district": "naogaon",
+  "area": "Sadar",
+  "lat": 24.8348,
+  "lng": 88.7732,
+  "stock": {
+   "saline": 220,
+   "ors": 349,
+   "paracetamol": 338,
+   "ns1Kit": 287
+  },
+  "open24h": false,
+  "phone": "01000-000137"
+ },
+ {
+  "id": "p65",
+  "name": "Narail Sadar Pharmacy",
+  "district": "narail",
+  "area": "Sadar",
+  "lat": 23.1115,
+  "lng": 89.524,
+  "stock": {
+   "saline": 173,
+   "ors": 274,
+   "paracetamol": 352,
+   "ns1Kit": 5
+  },
+  "open24h": false,
+  "phone": "01000-000138"
+ },
+ {
+  "id": "p66",
+  "name": "Narayanganj Sadar Pharmacy",
+  "district": "narayanganj",
+  "area": "Sadar",
+  "lat": 23.7118,
+  "lng": 90.6002,
+  "stock": {
+   "saline": 0,
+   "ors": 295,
+   "paracetamol": 11,
+   "ns1Kit": 0
+  },
+  "open24h": false,
+  "phone": "01000-000139"
+ },
+ {
+  "id": "p67",
+  "name": "Narayanganj Hospital Road Pharmacy",
+  "district": "narayanganj",
+  "area": "Hospital Road",
+  "lat": 23.6903,
+  "lng": 90.6176,
+  "stock": {
+   "saline": 177,
+   "ors": 138,
+   "paracetamol": 227,
+   "ns1Kit": 16
+  },
+  "open24h": false,
+  "phone": "01000-000140"
+ },
+ {
+  "id": "p68",
+  "name": "Narsingdi Sadar Pharmacy",
+  "district": "narsingdi",
+  "area": "Sadar",
+  "lat": 24.0264,
+  "lng": 90.8022,
+  "stock": {
+   "saline": 13,
+   "ors": 19,
+   "paracetamol": 7,
+   "ns1Kit": 21
+  },
+  "open24h": true,
+  "phone": "01000-000141"
+ },
+ {
+  "id": "p69",
+  "name": "Narsingdi Hospital Road Pharmacy",
+  "district": "narsingdi",
+  "area": "Hospital Road",
+  "lat": 24.0268,
+  "lng": 90.8255,
+  "stock": {
+   "saline": 127,
+   "ors": 292,
+   "paracetamol": 6,
+   "ns1Kit": 24
+  },
+  "open24h": false,
+  "phone": "01000-000142"
+ },
+ {
+  "id": "p70",
+  "name": "Natore Sadar Pharmacy",
+  "district": "natore",
+  "area": "Sadar",
+  "lat": 24.387,
+  "lng": 89.1239,
+  "stock": {
+   "saline": 190,
+   "ors": 289,
+   "paracetamol": 238,
+   "ns1Kit": 349
+  },
+  "open24h": false,
+  "phone": "01000-000143"
+ },
+ {
+  "id": "p71",
+  "name": "Nawabganj Sadar Pharmacy",
+  "district": "nawabganj",
+  "area": "Sadar",
+  "lat": 24.681,
+  "lng": 88.2593,
+  "stock": {
+   "saline": 342,
+   "ors": 357,
+   "paracetamol": 179,
+   "ns1Kit": 359
+  },
+  "open24h": false,
+  "phone": "01000-000144"
+ },
+ {
+  "id": "p72",
+  "name": "Netrokona Sadar Pharmacy",
+  "district": "netrokona",
+  "area": "Sadar",
+  "lat": 24.879,
+  "lng": 90.8107,
+  "stock": {
+   "saline": 125,
+   "ors": 282,
+   "paracetamol": 184,
+   "ns1Kit": 348
+  },
+  "open24h": false,
+  "phone": "01000-000145"
+ },
+ {
+  "id": "p73",
+  "name": "Nilphamari Sadar Pharmacy",
+  "district": "nilphamari",
+  "area": "Sadar",
+  "lat": 25.9786,
+  "lng": 88.9174,
+  "stock": {
+   "saline": 317,
+   "ors": 167,
+   "paracetamol": 312,
+   "ns1Kit": 152
+  },
+  "open24h": true,
+  "phone": "01000-000146"
+ },
+ {
+  "id": "p74",
+  "name": "Noakhali Sadar Pharmacy",
+  "district": "noakhali",
+  "area": "Sadar",
+  "lat": 22.9509,
+  "lng": 91.1266,
+  "stock": {
+   "saline": 157,
+   "ors": 6,
+   "paracetamol": 174,
+   "ns1Kit": 0
+  },
+  "open24h": true,
+  "phone": "01000-000147"
+ },
+ {
+  "id": "p75",
+  "name": "Noakhali Hospital Road Pharmacy",
+  "district": "noakhali",
+  "area": "Hospital Road",
+  "lat": 22.8764,
+  "lng": 91.1232,
+  "stock": {
+   "saline": 303,
+   "ors": 204,
+   "paracetamol": 364,
+   "ns1Kit": 0
+  },
+  "open24h": true,
+  "phone": "01000-000148"
+ },
+ {
+  "id": "p76",
+  "name": "Pabna Sadar Pharmacy",
+  "district": "pabna",
+  "area": "Sadar",
+  "lat": 24.0956,
+  "lng": 89.3803,
+  "stock": {
+   "saline": 375,
+   "ors": 30,
+   "paracetamol": 106,
+   "ns1Kit": 15
+  },
+  "open24h": true,
+  "phone": "01000-000149"
+ },
+ {
+  "id": "p77",
+  "name": "Panchagarh Sadar Pharmacy",
+  "district": "panchagarh",
+  "area": "Sadar",
+  "lat": 26.3451,
+  "lng": 88.5294,
+  "stock": {
+   "saline": 104,
+   "ors": 122,
+   "paracetamol": 266,
+   "ns1Kit": 217
+  },
+  "open24h": true,
+  "phone": "01000-000150"
+ },
+ {
+  "id": "p78",
+  "name": "Patuakhali Sadar Pharmacy",
+  "district": "patuakhali",
+  "area": "Sadar",
+  "lat": 22.2825,
+  "lng": 90.4782,
+  "stock": {
+   "saline": 91,
+   "ors": 10,
+   "paracetamol": 40,
+   "ns1Kit": 139
+  },
+  "open24h": true,
+  "phone": "01000-000151"
+ },
+ {
+  "id": "p79",
+  "name": "Patuakhali Hospital Road Pharmacy",
+  "district": "patuakhali",
+  "area": "Hospital Road",
+  "lat": 22.2291,
+  "lng": 90.4273,
+  "stock": {
+   "saline": 299,
+   "ors": 7,
+   "paracetamol": 376,
+   "ns1Kit": 40
+  },
+  "open24h": false,
+  "phone": "01000-000152"
+ },
+ {
+  "id": "p80",
+  "name": "Pirojpur Sadar Pharmacy",
+  "district": "pirojpur",
+  "area": "Sadar",
+  "lat": 22.5451,
+  "lng": 89.9939,
+  "stock": {
+   "saline": 0,
+   "ors": 109,
+   "paracetamol": 36,
+   "ns1Kit": 103
+  },
+  "open24h": false,
+  "phone": "01000-000153"
+ },
+ {
+  "id": "p81",
+  "name": "Pirojpur Hospital Road Pharmacy",
+  "district": "pirojpur",
+  "area": "Hospital Road",
+  "lat": 22.4915,
+  "lng": 89.9737,
+  "stock": {
+   "saline": 0,
+   "ors": 110,
+   "paracetamol": 214,
+   "ns1Kit": 341
+  },
+  "open24h": false,
+  "phone": "01000-000154"
+ },
+ {
+  "id": "p82",
+  "name": "Rajbari Sadar Pharmacy",
+  "district": "rajbari",
+  "area": "Sadar",
+  "lat": 23.7151,
+  "lng": 89.5412,
+  "stock": {
+   "saline": 157,
+   "ors": 256,
+   "paracetamol": 38,
+   "ns1Kit": 0
+  },
+  "open24h": false,
+  "phone": "01000-000155"
+ },
+ {
+  "id": "p83",
+  "name": "Rajshahi Sadar Pharmacy",
+  "district": "rajshahi",
+  "area": "Sadar",
+  "lat": 24.4281,
+  "lng": 88.5523,
+  "stock": {
+   "saline": 273,
+   "ors": 231,
+   "paracetamol": 96,
+   "ns1Kit": 5
+  },
+  "open24h": false,
+  "phone": "01000-000156"
+ },
+ {
+  "id": "p84",
+  "name": "Rangamati Sadar Pharmacy",
+  "district": "rangamati",
+  "area": "Sadar",
+  "lat": 22.5328,
+  "lng": 92.3619,
+  "stock": {
+   "saline": 374,
+   "ors": 208,
+   "paracetamol": 240,
+   "ns1Kit": 90
+  },
+  "open24h": false,
+  "phone": "01000-000157"
+ },
+ {
+  "id": "p85",
+  "name": "Rangpur Sadar Pharmacy",
+  "district": "rangpur",
+  "area": "Sadar",
+  "lat": 25.6576,
+  "lng": 89.2558,
+  "stock": {
+   "saline": 203,
+   "ors": 385,
+   "paracetamol": 320,
+   "ns1Kit": 311
+  },
+  "open24h": false,
+  "phone": "01000-000158"
+ },
+ {
+  "id": "p86",
+  "name": "Satkhira Sadar Pharmacy",
+  "district": "satkhira",
+  "area": "Sadar",
+  "lat": 22.5016,
+  "lng": 89.1409,
+  "stock": {
+   "saline": 87,
+   "ors": 262,
+   "paracetamol": 332,
+   "ns1Kit": 394
+  },
+  "open24h": true,
+  "phone": "01000-000159"
+ },
+ {
+  "id": "p87",
+  "name": "Shariatpur Sadar Pharmacy",
+  "district": "shariatpur",
+  "area": "Sadar",
+  "lat": 23.2114,
+  "lng": 90.4578,
+  "stock": {
+   "saline": 8,
+   "ors": 349,
+   "paracetamol": 120,
+   "ns1Kit": 343
+  },
+  "open24h": false,
+  "phone": "01000-000160"
+ },
+ {
+  "id": "p88",
+  "name": "Sherpur Sadar Pharmacy",
+  "district": "sherpur",
+  "area": "Sadar",
+  "lat": 25.0467,
+  "lng": 90.0948,
+  "stock": {
+   "saline": 138,
+   "ors": 99,
+   "paracetamol": 390,
+   "ns1Kit": 122
+  },
+  "open24h": false,
+  "phone": "01000-000161"
+ },
+ {
+  "id": "p89",
+  "name": "Sirajgonj Sadar Pharmacy",
+  "district": "sirajgonj",
+  "area": "Sadar",
+  "lat": 24.4139,
+  "lng": 89.527,
+  "stock": {
+   "saline": 0,
+   "ors": 342,
+   "paracetamol": 361,
+   "ns1Kit": 330
+  },
+  "open24h": false,
+  "phone": "01000-000162"
+ },
+ {
+  "id": "p90",
+  "name": "Sunamganj Sadar Pharmacy",
+  "district": "sunamganj",
+  "area": "Sadar",
+  "lat": 24.8511,
+  "lng": 91.4356,
+  "stock": {
+   "saline": 97,
+   "ors": 240,
+   "paracetamol": 37,
+   "ns1Kit": 383
+  },
+  "open24h": false,
+  "phone": "01000-000163"
+ },
+ {
+  "id": "p91",
+  "name": "Sylhet Sadar Pharmacy",
+  "district": "sylhet",
+  "area": "Sadar",
+  "lat": 24.9087,
+  "lng": 91.9408,
+  "stock": {
+   "saline": 382,
+   "ors": 102,
+   "paracetamol": 204,
+   "ns1Kit": 234
+  },
+  "open24h": true,
+  "phone": "01000-000164"
+ },
+ {
+  "id": "p92",
+  "name": "Tangail Sadar Pharmacy",
+  "district": "tangail",
+  "area": "Sadar",
+  "lat": 24.3289,
+  "lng": 90.0009,
+  "stock": {
+   "saline": 202,
+   "ors": 109,
+   "paracetamol": 217,
+   "ns1Kit": 314
+  },
+  "open24h": false,
+  "phone": "01000-000165"
+ },
+ {
+  "id": "p93",
+  "name": "Thakurgaon Sadar Pharmacy",
+  "district": "thakurgaon",
+  "area": "Sadar",
+  "lat": 25.9795,
+  "lng": 88.3624,
+  "stock": {
+   "saline": 138,
+   "ors": 394,
+   "paracetamol": 0,
+   "ns1Kit": 316
+  },
+  "open24h": false,
+  "phone": "01000-000166"
+ }
+]
